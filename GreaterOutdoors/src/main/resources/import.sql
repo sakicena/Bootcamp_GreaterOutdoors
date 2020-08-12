@@ -1,0 +1,4 @@
+insert into great_outdoor_user(user_id,email,password,phoneNumber,role,userName) values(1,'saijavvadi98@gmail.com','krishna1',7330857377,'ADMIN','KRISHNA1');
+insert into great_outdoor_user(user_id,email,password,phoneNumber,role,userName) values(2,'kothachaitanyakumar@gmail.com','chaitanya',8639973505,'GOADMIN','CHAITANYA');
+insert into great_outdoor_user(user_id,email,password,phoneNumber,role,userName) values(10001,'hemanthreddychityala@gmail.com','hemanth1',9515958234,'USER','HEMANTH1');
+insert into great_outdoor_user(user_id,email,password,phoneNumber,role,userName) values(10002,'ramatejadamireddy@gmail.com','ramateja',9815721899,'PRODUCTMASTER','RAMATEJA');
